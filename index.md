@@ -1,3 +1,5 @@
+![ENspire](https://user-images.githubusercontent.com/47939652/109879457-a9d0eb80-7c19-11eb-8057-200ace6c6a7a.jpeg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ENspireDesignStudio/enspire_ai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -7,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
